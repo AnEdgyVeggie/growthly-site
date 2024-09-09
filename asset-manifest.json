@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/p2psite/static/css/main.e1a9830a.css",
+    "main.js": "/p2psite/static/js/main.548079e2.js",
+    "static/media/hands.jpg": "/p2psite/static/media/hands.8db363da808421f14482.jpg",
+    "static/media/meet.jpeg": "/p2psite/static/media/meet.02a86cf599fe75ae3f60.jpeg",
+    "index.html": "/p2psite/index.html",
+    "main.e1a9830a.css.map": "/p2psite/static/css/main.e1a9830a.css.map",
+    "main.548079e2.js.map": "/p2psite/static/js/main.548079e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1a9830a.css",
+    "static/js/main.548079e2.js"
+  ]
+}
