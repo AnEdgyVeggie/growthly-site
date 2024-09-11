@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/growthly-site/static/css/main.e1a9830a.css",
-    "main.js": "/growthly-site/static/js/main.3cb7938b.js",
-    "static/media/hands.jpg": "/growthly-site/static/media/hands.8db363da808421f14482.jpg",
-    "static/media/meet.jpeg": "/growthly-site/static/media/meet.02a86cf599fe75ae3f60.jpeg",
+    "main.css": "/growthly-site/static/css/main.8cead9b6.css",
+    "main.js": "/growthly-site/static/js/main.d5d099a8.js",
+    "static/media/header-img.jpg": "/growthly-site/static/media/header-img.3125d64c43274d7ae32c.jpg",
+    "static/media/growthly-logo.png": "/growthly-site/static/media/growthly-logo.0467830ab2bcc2a96f8e.png",
     "index.html": "/growthly-site/index.html",
-    "main.e1a9830a.css.map": "/growthly-site/static/css/main.e1a9830a.css.map",
-    "main.3cb7938b.js.map": "/growthly-site/static/js/main.3cb7938b.js.map"
+    "main.8cead9b6.css.map": "/growthly-site/static/css/main.8cead9b6.css.map",
+    "main.d5d099a8.js.map": "/growthly-site/static/js/main.d5d099a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1a9830a.css",
-    "static/js/main.3cb7938b.js"
+    "static/css/main.8cead9b6.css",
+    "static/js/main.d5d099a8.js"
   ]
 }
